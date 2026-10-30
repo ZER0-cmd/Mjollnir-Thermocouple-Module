@@ -1,0 +1,14 @@
+../Src/MAX31856.c:7:26:TC_ValidateHandle	16	static
+../Src/MAX31856.c:17:19:ReadReg	56	static
+../Src/MAX31856.c:43:19:WriteReg	40	static
+../Src/MAX31856.c:62:19:TC_ReadRegisters	64	static
+../Src/MAX31856.c:98:19:TC_Init	40	static
+../Src/MAX31856.c:126:19:TC_ReadTemperature	40	static
+../Src/MAX31856.c:158:19:TC_ReadColdJunctionTemperature	32	static
+../Src/MAX31856.c:182:19:TC_SetThermocoupleType	32	static
+../Src/MAX31856.c:198:19:TC_GetThermocoupleType	32	static
+../Src/MAX31856.c:213:19:TC_SetConversionMode	32	static
+../Src/MAX31856.c:240:19:TC_GetConversionMode	32	static
+../Src/MAX31856.c:262:19:TC_SetNoiseFilter	32	static
+../Src/MAX31856.c:282:19:TC_Fault	16	static
+../Src/MAX31856.c:288:19:TC_ClearFaults	32	static

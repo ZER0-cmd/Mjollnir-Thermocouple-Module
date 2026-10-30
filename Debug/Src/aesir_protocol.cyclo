@@ -1,0 +1,14 @@
+../Src/aesir_protocol.c:19:17:read_u16_be	1
+../Src/aesir_protocol.c:24:13:write_u16_be	1
+../Src/aesir_protocol.c:30:10:aesir_crc16	6
+../Src/aesir_protocol.c:55:23:encode_frame	11
+../Src/aesir_protocol.c:102:23:decode_frame	9
+../Src/aesir_protocol.c:150:12:same_message	6
+../Src/aesir_protocol.c:161:23:begin_message	3
+../Src/aesir_protocol.c:194:23:store_fragment	8
+../Src/aesir_protocol.c:234:13:compact_fragments	4
+../Src/aesir_protocol.c:253:16:aesir_receiver_init	4
+../Src/aesir_protocol.c:270:6:aesir_receiver_reset	2
+../Src/aesir_protocol.c:279:16:aesir_send	14
+../Src/aesir_protocol.c:336:16:aesir_receive	13
+../Src/aesir_protocol.c:393:13:aesir_status_name	13
